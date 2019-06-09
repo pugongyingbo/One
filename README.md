@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github.com/pugongyingbo/One/blob/master/img/one4.jpgg" alt="Sample"  width="280" height="500">
+    <img src="https://github.com/pugongyingbo/One/blob/master/img/one4.jpg" alt="Sample"  width="280" height="500">
     <p align="center">
         <em>图片示例</em>
     </p>
